@@ -1,0 +1,23 @@
+[VSC]
+version=1
+keys=4
+title=Makiba 2
+difficulty=Extra
+artist=jea
+charter=ilikexd
+audio=Makiba.mp3
+previewTime=28.631
+background=background.jpg
+
+[TIMING]
+70 BPM 168.0900000000001
+
+[NOTES]
+2568 0 HOLD_START
+12702 0 HOLD_END
+3568 1 HOLD_START
+13702 1 HOLD_END
+4568 2 HOLD_START
+14702 2 HOLD_END
+5568 3 HOLD_START
+15702 3 HOLD_END
