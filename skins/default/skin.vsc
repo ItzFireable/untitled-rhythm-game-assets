@@ -1,4 +1,5 @@
 [GAMEPLAY]
+scalePlayfield=true
 playfieldWidth=600.0
 playfieldPadding=16.0
 
@@ -6,9 +7,11 @@ strumlineGap=0.0
 strumlineOffset=-16.0
 judgementPopupOffset=-256.0
 
+showPlayfieldBackground=true
+playfieldBackgroundOpacity=0.5
+
 [NOTES]
 holdCut=40.0
-scrollSpeed=1700.0
 
 [HUD]
 fontName=GoogleSansCode-Bold
@@ -18,8 +21,8 @@ fontSize=24
 showJudgementCounter=true
 judgementCounterAlignX=left
 judgementCounterAlignY=center
-accuracyX=16.0
-accuracyY=0.0
+judgementCounterX=16.0
+judgementCounterY=0.0
 
 [ACCURACY]
 showAccuracyDisplay=true
