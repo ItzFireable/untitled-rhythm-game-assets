@@ -17,10 +17,19 @@ holdCut=40.0
 fontName=GoogleSansCode-Bold
 fontSize=24
 
+[HITERROR]
+showHitErrorBar=true
+hitErrorBarX=0
+hitErrorBarY=-128.0
+hitErrorBarWidth=500.0
+hitErrorBarHeight=40.0
+hitErrorBarAlignX=center
+hitErrorBarAlignY=middle
+
 [JUDGEMENTS]
 showJudgementCounter=true
 judgementCounterAlignX=left
-judgementCounterAlignY=center
+judgementCounterAlignY=middle
 judgementCounterX=16.0
 judgementCounterY=0.0
 
